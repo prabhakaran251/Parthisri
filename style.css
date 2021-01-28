@@ -1,0 +1,42 @@
+body{
+    background-image: url(ss.jpg);
+}
+.header{
+ background-color:lightblue;
+}
+.header .header-content{
+ background-color:white;
+ color: red;
+ padding-top:5px;
+ height:80px;
+}
+ul{
+list-style-type: none;
+margin: -5px;
+margin-bottom: 12px;
+padding: 0px;
+overflow: hidden;
+
+background-color:black;
+}
+ul li {
+ float: left;
+}
+ul li a{
+display: block;
+color: white;
+text-align: center;
+padding: 20px;
+padding-left: 60px;
+text-decoration: none;
+cursor: pointer;
+font-size: large;
+}
+ul li a:hover{
+background-color: white;
+color: black;
+}
+.para{
+	background-color:white;
+	color: black;
+}
